@@ -1,0 +1,2 @@
+altyapı tamamen atalay çağlar, frenzycrew youtube kanalına aittir. İzinsiz veya ücret karşılığı satmak, paylaşmak yasaktır.
+npm install yazacaksınız ve altyapı çalışacak. (vs code veya glitch veya herhangi code uygulamasından açıp npm install yazın yoksa bot çalışmaz)
